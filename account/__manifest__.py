@@ -1,7 +1,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name': 'FlousFlow Community Accounting',
-    'version': '1.5',
+    'version': '20.0.1.5.0',
     'summary': 'Invoices & Payments',
     'sequence': 10,
     'description': """
